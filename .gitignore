@@ -88,5 +88,10 @@ typings/
 .dynamodb/
 
 # Custom
+*.js
+*.d.ts
+*.d.ts.map
+
 yarn.lock
-dist/
+
+!jest.config.js
