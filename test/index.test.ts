@@ -1,4 +1,4 @@
-import { name } from '../src/index';
+import { name } from '../index';
 
 describe('index.ts', () => {
     test('name', () => {
