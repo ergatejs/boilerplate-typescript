@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc",
     "ci": "npm run test",
-    "clean": "rm -f index.{js,d.ts,d.ts.map} lib/*.{js,d.ts,d.ts.map} test/*.{js,d.ts,d.ts.map}",
+    "clean": "./scripts/clean.sh",
     "dev": "tsc -w",
     "lint": "tslint --project . ",
     "semantic-release": "tsc && semantic-release",
