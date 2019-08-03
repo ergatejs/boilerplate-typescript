@@ -15,7 +15,8 @@
         },
         "esSpecCompliant": true
       }
-    ]
+    ],
+    "object-literal-sort-keys": false
   },
   "rulesDirectory": []
 }
