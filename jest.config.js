@@ -1,8 +1,7 @@
 module.exports = {
-  "roots": [
-    "./test"
-  ],
-  "transform": {
-    "^.+\\.tsx?$": "ts-jest"
+  roots: ['./test'],
+  transform: {
+    '^.+\\.tsx?$': 'ts-jest',
   },
-}
+  "collectCoverage": true
+};
