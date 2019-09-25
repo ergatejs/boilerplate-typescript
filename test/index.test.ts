@@ -1,7 +1,7 @@
 import { name } from '../index';
 
 describe('index.ts', () => {
-    test('name', () => {
-        expect(name).toBe('typescript-boilerplate');
-    });
+  test('name', () => {
+    expect(name).toBe('typescript-boilerplate');
+  });
 });
