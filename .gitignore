@@ -95,3 +95,4 @@ typings/
 yarn.lock
 
 !jest.config.js
+!.eslintrc.js
